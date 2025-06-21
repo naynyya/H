@@ -1,1 +1,5 @@
-python-telegram-bot telebot async html request asyncio 
+python-telegram-bot
+telebot
+request
+asyncio
+html
