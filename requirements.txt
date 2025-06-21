@@ -2,4 +2,4 @@ python-telegram-bot
 telebot
 requests
 asyncio
-
+gunicorn
