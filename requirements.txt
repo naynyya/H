@@ -1,5 +1,5 @@
 python-telegram-bot
 telebot
-request
+requests
 asyncio
 html
